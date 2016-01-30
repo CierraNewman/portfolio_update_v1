@@ -102,6 +102,7 @@ header .profile-image:hover {
   border-color: #ffDD00;
 }
 .cardfullwidth{
+  display: inline-block
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 1000px;
