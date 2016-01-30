@@ -165,13 +165,13 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.social.twitter {
+a.twitter {
   background-image: url(images/twitter.svg);
 }
-a.social.linkedin {
+a.linkedin {
   background-image: url(images/linkedin.svg);
 }
-a.social.github {
+a.github {
   background-image: url(images/github.svg);
 }
 a.social:hover {
